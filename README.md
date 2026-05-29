@@ -15,31 +15,6 @@ I simulate the universe's small-scale structures — from stellar streams and da
 
 ---
 
-## Tools & Skills
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
-**ML / Data Science**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Physics / Simulation**
-
-![SWIFT](https://img.shields.io/badge/SWIFT-222222?style=flat-square)
-![gala](https://img.shields.io/badge/gala-5C3EE8?style=flat-square&logo=python&logoColor=white)
-![HDF5](https://img.shields.io/badge/HDF5-0000FF?style=flat-square&logo=hdfgroup&logoColor=white)
-![Astropy](https://img.shields.io/badge/Astropy-FF6F00?style=flat-square&logo=python&logoColor=white)
-
----
-
 ## Publications
 
 | Year | Paper | Journal | Award |
