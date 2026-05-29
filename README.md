@@ -15,15 +15,6 @@ I simulate the universe's small-scale structures — from stellar streams and da
 
 ---
 
-## Publications
-
-| Year | Paper | Journal | Award |
-|------|-------|---------|-------|
-| 2025 | [Cosmological Zoom-In Simulations of Milky Way Host Mass Dark Matter Halos with a Blue-Tilted Primordial Power Spectrum](https://arxiv.org/abs/2412.16072) | Phys. Rev. D 112, 023512 | 🥉 11th HK University Student Innovation & Entrepreneurship Competition |
-| 2023 | [Cosmic-ray electrons and the magnetic field of the North Polar Spur](https://arxiv.org/abs/2212.04306) | A&A 676, L3 (Letter) | 🏆 Best Presentation Award, CosPA 2024 |
-
----
-
 ## Academic Profiles
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hxR2VSsAAAAJ)
