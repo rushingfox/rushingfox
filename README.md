@@ -1,4 +1,4 @@
-# rushingfox
+# This is Jianhao (Jian-Hao) Wu!
 
 Welcome to my GitHub profile repository.
 
