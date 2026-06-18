@@ -33,5 +33,5 @@ I simulate the universe's small-scale structures — from stellar streams and da
 
 ---
 
-🌐 **Website:** [rushingfox.github.io](https://rushingfox.github.io/) &nbsp;|&nbsp; 📄 **CV:** [Download](https://rushingfox.github.io/files/Jianhao_Wu_s_Professional_Resume.pdf)
+🌐 **Website:** [jianhaowu.com](https://jianhaowu.com/) &nbsp;|&nbsp; 📄 **CV:** [Download](https://jianhaowu.com/files/Jianhao_Wu_s_Professional_Resume.pdf)
 
