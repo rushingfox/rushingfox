@@ -11,7 +11,7 @@ I simulate the universe's small-scale structures — from stellar streams and da
 - 🔭 **Currently working on:** AI Foundation Models for fundamental physics, at the intersection of **Astrophysics** and **HEP**, advised by [Prof. Mariel Pettee](https://marielpettee.com/)
 - 🎓 **MPhil** in Physics, CUHK (2025) · **MSc** in Physics, CUHK (2023) · **BEng** in Computer Science, WHU (2022)
 - 📖 Background: started as a CS student, crossed over to physics research
-- 💬 Happy to chat about: cosmological simulations, ML for physics, or just science in general
+- 💬 Happy to chat about: ML for physics, cosmological simulations, or just science in general
 
 ---
 
